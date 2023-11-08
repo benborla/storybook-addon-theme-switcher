@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/constants.ts"],"names":[],"mappings":";AAAO,IAAM,WAAW;AACjB,IAAM,YAAY;AAElB,IAAM,SAAS;AAAA,EACpB,QAAQ,GAAG;AACb","sourcesContent":["export const ADDON_ID = 'storybook/theme-switcher';\nexport const PARAM_KEY = 'themes';\n\nexport const EVENTS = {\n  UPDATE: `${ADDON_ID}/update`,\n};\n"]}
